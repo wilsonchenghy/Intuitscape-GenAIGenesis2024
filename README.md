@@ -4,5 +4,6 @@ During the 24 hours of the GenAI Genesis Hackathon, we have made a mutlimodal ge
 
 
 # Initializing the project
-
+```bash
+npm install
 In your terminal, run npm install in the frontend directory to install all the required dependicies. For the backend, 
