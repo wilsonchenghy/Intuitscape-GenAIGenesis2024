@@ -5,4 +5,6 @@ During the 24 hours of the GenAI Genesis Hackathon, we have made a mutlimodal ge
 
 # Initializing the project
 
-In your terminal, run ```console npm install ``` in the frontend directory to install all the required dependicies. For the backend, 
+In your terminal, run ``` npm install ``` in the frontend directory to install all the frontend dependicies. For the backend, run ``` pip install -r requirements.txt ``` in the backend directory to install the backend dependicies. 
+
+After installing the dependicies, run ``` npm run dev ``` in the frontend directory and also run ``` flask run ``` in the backend directory to start the project
