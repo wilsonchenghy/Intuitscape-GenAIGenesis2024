@@ -1,5 +1,7 @@
 # Intuitscape - genaigenesis2024
 
+![Intuitscape](https://github.com/user-attachments/assets/0c45e269-4637-4704-8bce-1f1189bdb311)
+
 During the 24 hours of the GenAI Genesis Hackathon, we have made Intuitscape, an e-learning platform with a multimodal generator for generating customized concept map to facilitate learning, tackling the issue of quality education and education equity.
 
 Check out our devpost: https://devpost.com/software/prezi-but-with-ai#updates
