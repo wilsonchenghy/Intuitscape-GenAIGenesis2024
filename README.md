@@ -1,4 +1,4 @@
-# Intuitscape - genaigenesis2024
+# Intuitscape - GenAI Genesis 2024
 
 ![Intuitscape](https://github.com/user-attachments/assets/0c45e269-4637-4704-8bce-1f1189bdb311)
 
